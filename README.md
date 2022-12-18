@@ -43,7 +43,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
   $ bash NFisher.sh
   ```
 
-- On first launch, It'll install the dependencies and that's it. ***zphisher*** is installed.
+- On first launch, It'll install the dependencies and that's it. ***NFisher*** is installed.
 
 ##
 
@@ -52,17 +52,17 @@ You can easily install zphisher in Termux by using tur-repo
 ```
 $ pkg install tur-repo
 $ pkg install NFisher
-$ zphisher
+$ NFisher
 ```
 ### A Note : 
-***Termux discourages hacking*** .. So never discuss anything related to *zphisher* in any of the termux discussion groups. For more check : [wiki](https://wiki.termux.com/wiki/Hacking)
+***Termux discourages hacking*** .. So never discuss anything related to *NFisher* in any of the termux discussion groups. For more check : [wiki](https://wiki.termux.com/wiki/Hacking)
 
 ### Run on Docker
 
 - Docker Image Mirror:
   - **DockerHub** : 
     ```
-    docker pull htrtech/zphisher
+    docker pull navinsha/nfisher
     ```
   - **GHCR** : 
     ```
@@ -88,12 +88,12 @@ $ zphisher
 <details>
   <summary><h3>Dependencies</h3></summary>
 
-***zphisher*** requires following programs to run properly - 
+***NFisher*** requires following programs to run properly - 
 - `git`
 - `curl`
 - `php`
 
-> All the dependencies will be installed automatically when you run ***zphisher*** for the first time.
+> All the dependencies will be installed automatically when you run ***NFisher*** for the first time.
 </details>
 
 <details>
